@@ -7,5 +7,6 @@ namespace FizzBuzzLibrary
 {
     public class FizzBuzz
     {
+
     }
 }
